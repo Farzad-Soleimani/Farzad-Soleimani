@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/farzadsoleimani7593/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:farzadsoleimani7593@gmail.com)
-[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/Farzad-Soleimani)
+[![Github](https://img.shields.io/github/followers/Farzad-Soleimani?label=Follow&style=social)](https://github.com/Farzad-Soleimani)
 
 - 🔭 I am a psychology student with a keen interest in neuroscience and cognitive science
 - 🌱 I am passionate about integrating cognitive science, artificial intelligence, neuroscience and data science to explore and solve complex interdisciplinary challenges.
