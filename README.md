@@ -1,6 +1,6 @@
 # Farzad Soleimani
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/farzadsoleimani7593)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/farzadsoleimani7593/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:farzadsoleimani7593@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/FarzadSoleimani7593)
 [![Github](https://img.shields.io/github/followers/Farzad-Soleimani?label=Follow&style=social)](https://github.com/Farzad-Soleimani)
