@@ -16,5 +16,5 @@
 
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Farzad-Soleimani&show_icons=true&locale=en&layout=compact" alt="Farzad-Soleimani" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&" alt="Farzad-Soleimani" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Farzad-Soleimani&" alt="Farzad-Soleimani" />
 </div>
