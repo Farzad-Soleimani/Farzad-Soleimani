@@ -6,7 +6,7 @@
 [![Github](https://img.shields.io/github/followers/Farzad-Soleimani?label=Follow&style=social)](https://github.com/Farzad-Soleimani)
 
 - 🌱 I am a psychology student with a keen interest in neuroscience and cognitive science
-- 🧠 I am passionate about integrating cognitive science, artificial intelligence, neuroscience and data science to explore and solve complex interdisciplinary challenges.
+- 🧠 I am passionate about integrating concepts in cognitive science, artificial intelligence, neuroscience and data science to explore and solve complex interdisciplinary challenges.
 - 💻 Currently, I am enhancing my skills by learning Statistics, Data Processing, Visualization, and Machine Learning.
 - 📫 How to reach me: farzadsoleimani7593@gmail.com
 
